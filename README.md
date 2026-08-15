@@ -1,6 +1,6 @@
 # A Programming Paradigm for Spatiotemporal Composability
 
-**[Read the paper (PDF)](paper.pdf)** · Draft of August 13, 2026
+**[Read the paper (PDF)](paper.pdf)** · **[中文 README](README.zh-CN.md)** · **[中文翻译（Markdown）](paper.zh-CN.md)** · Draft of August 13, 2026
 
 > This is a preprint under active revision. The content may change substantially; please cite the latest version and check back before relying on specific results.
 
